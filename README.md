@@ -1,12 +1,24 @@
-# React + Vite
+# 🍽️ YumBook
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**YumBook** is a modern and interactive recipe book web application where users can explore, search, and save delicious recipes. It provides a clean, responsive interface with visually appealing layouts for food lovers.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [yum-book-red.vercel.app](https://yum-book-red.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📌 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🍔 **Browse Recipes** – View a variety of recipes with images, ingredients, and preparation steps.
+- 🔍 **Search Functionality** – Find recipes quickly by name or keyword.
+- 📱 **Responsive Design** – Works seamlessly on desktops, tablets, and mobile devices.
+- 📖 **Detailed Recipe View** – Each recipe includes preparation time, ingredients list, and cooking instructions.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js 
+- **Styling:** Tailwind CSS (or custom CSS if applicable)  
+- **Deployment:** Vercel  
+
+
